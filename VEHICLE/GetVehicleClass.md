@@ -18,7 +18,7 @@ Vehicle Classes:
 4: Muscle  
 5: Sports Classics  
 6: Sports  
-7: Super  
+7: Vip  
 8: Motorcycles  
 9: Off-road  
 10: Industrial  
